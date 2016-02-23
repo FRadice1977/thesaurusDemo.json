@@ -1,0 +1,86 @@
+Enter file contents here{
+  "http://id.cabi.org/cabt/209311": {
+    "http://purl.org/dc/terms/modified": [
+      {
+        "value": "2012-08-22",
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string"
+      }
+    ],
+    "http://id.cabi.org/cabrelations/subjectCategory": [
+      {
+        "value": "Organism Names",
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#historyNote": [
+      {
+        "value": "From 2012.",
+        "type": "literal",
+        "lang": "en-gb"
+      }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "value": "http://www.w3.org/2004/02/skos/core#Concept",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#GUID": [
+      {
+        "value": "{D2091EDF-9915-40A4-BF3D-9EF7D3F27FC7}",
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string"
+      }
+    ],
+    "http://id.cabi.org/cabrelations/technicalCategory": [
+      {
+        "value": "Scientific Name - Organisms",
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "value": "Nasutitermes voeltzkowi",
+        "type": "literal",
+        "lang": "en-gb"
+      }
+    ],
+    "http://purl.org/dc/terms/created": [
+      {
+        "value": "2012-04-30",
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string"
+      }
+    ],
+    "http://purl.org/dc/terms/dateAccepted": [
+      {
+        "value": "2012-05-01",
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "value": "http://id.cabi.org/cabt/198887",
+        "type": "uri"
+      }
+    ],
+    "http://rs.tdwg.org/dwc/terms/taxonRank": [
+      {
+        "value": "Species",
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "value": "Eutermes voeltzkowi",
+        "type": "literal",
+        "lang": "en-gb"
+      }
+    ]
+  }
+}
